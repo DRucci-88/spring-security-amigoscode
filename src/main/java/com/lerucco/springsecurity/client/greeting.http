@@ -1,0 +1,6 @@
+### Greeting 401 Unauthorized 
+GET http://localhost:8080/api/v1/greeting
+
+### Greeting success only with postman to get base64
+GET http://localhost:8080/api/v1/greeting
+Authorization: Basic dXNlcjo2YzUxODczZS03YzU0LTQzODMtOGFmNC1lNmY4MmM5MDliMWY=
